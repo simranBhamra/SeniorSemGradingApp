@@ -1,7 +1,7 @@
 {
   "name": "mathsgradingapp",
-  "productName": "ThisFuckingThing",
-  "author": "Captain Twat",
+  "productName": "Grading Application",
+  "author": "Senior Sem Class",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
