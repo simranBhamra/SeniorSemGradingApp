@@ -1,0 +1,26 @@
+.left{
+    display: inline-block;
+    text-align: right;
+    position: 'absolute';
+    width: 501px;
+    margin-top: 25px;
+    font-size: 30pt;
+    color: #F76C6C;
+    font-family: 'Roboto', sans-serif;
+}
+
+.right{
+    display: inline-block;
+    width: 300px;
+    text-align: left;
+    position: 'absolute';
+    margin-left: 100px;
+    transform: 'translate(-50%, -50%)';
+    font-family: 'Roboto', sans-serif;
+}
+
+.full{
+    display: inline-block;
+    margin-right:150px;
+    width: 1000px;
+}

@@ -1,0 +1,49 @@
+.Up{
+    display: inline-block;
+    text-align: right;
+    position: 'absolute';
+    width: 501px;
+    font-size: 30pt;
+    color: #F76C6C;
+    font-family: 'Roboto', sans-serif;
+}
+
+.Down{
+    display: inline-block;
+    width: 50vh;
+    text-align: left;
+    position: 'absolute';
+    margin-left: 100px;
+    transform: 'translate(-50%, -50%)';
+    font-size: 30pt;
+    color: #F76C6C;
+    font-family: 'Roboto', sans-serif;
+}
+
+.Total{
+    display: inline-block;
+    justify-content: center;
+    margin-top:100px;
+    margin-left:175px;
+}
+.Total2{
+    display: inline-block;
+    justify-content: center;
+    margin-top:100px;
+    margin-left:175px;
+}
+
+.Up2{
+    display: inline-block;
+    width: 50vh;
+    height: 500px;
+    text-align: right;
+    position: 'absolute';
+    
+    left: '50%';
+    top: '50%';
+    transform: 'translate(-50%, -50%)';
+    font-size: 30pt;
+    color: #F76C6C;
+    font-family: 'Roboto', sans-serif;
+}
